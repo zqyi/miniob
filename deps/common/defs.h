@@ -34,7 +34,7 @@ namespace common {
 #define gettid() ((long long)pthread_self())
 // #endif
 
-#endif
+// #endif
 
 inline const std::string &theSwVersion()
 {
